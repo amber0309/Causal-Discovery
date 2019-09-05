@@ -27,25 +27,32 @@
 
 #### Constraint-based methods
 
-**With confounders**
-
 <table>
   <tr>
-    <td colspan="3">With confounders</td>
+    <td colspan="3"><b>With confounders</b></td>
   </tr>
   <tr>
-    <td><a href="https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition">(<b>FCI</b>) <i>Causation, prediction, and search</i></a></td>
+    <td>(<b>FCI</b>)<a href="https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition"> <i>Causation, prediction, and search</i></a></td>
     <td>Spirtes, Peter and Glymour, Clark N and Scheines, Richard and Heckerman, David and Meek, Christopher and Cooper, Gregory and Richardson, Thomas</td>
     <td>MIT press 2000</td>
   </tr>
 </table>
 
-**Without confounder**
-
-|Title|Authors|Venue|
-|---|---|---|
-|(**PC**) [An algorithm for fast recovery of sparse causal graphs](https://pdfs.semanticscholar.org/30d4/d4c7505008ea7362ec369311445f4bc8d27a.pdf)|Spirtes, Peter, and Clark Glymour|*Social science computer review* 1991|
-|(**SGS**) [Causality from probability](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.9968&rep=rep1&type=pdf)|Spirtes, Peter, Clark N. Glymour, and Richard Scheines|*Conference Proceedings: Advanced Computing for the Social Sciences, Williamsburgh.* 1990|
+<table>
+  <tr>
+    <td colspan="3"><b>Without confounder</b></td>
+  </tr>
+  <tr>
+    <td>(<b>PC</b>)<a href="https://pdfs.semanticscholar.org/30d4/d4c7505008ea7362ec369311445f4bc8d27a.pdf"> An algorithm for fast recovery of sparse causal graphs</a></td>
+    <td>Spirtes, Peter, and Clark Glymour</td>
+    <td><i>Social science computer review</i> 2000</td>
+  </tr>
+  <tr>
+    <td>(<b>SGS</b>)<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.9968&rep=rep1&type=pdf"> Causality from probability</a></td>
+    <td>Spirtes, Peter, Clark N. Glymour, and Richard Scheines</td>
+    <td><i>Conference Proceedings: Advanced Computing for the Social Sciences</i> 1990</td>
+  </tr>
+</table>
 
 #### Methods based on functional causal model
 
