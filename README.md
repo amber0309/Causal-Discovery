@@ -29,6 +29,17 @@
 
 **With confounders**
 
+<table>
+  <tr>
+    <td colspan="3">With confounders</td>
+  </tr>
+  <tr>
+    <td>(**FCI**) [*Causation, prediction, and search*](https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition)</td>
+    <td>Spirtes, Peter and Glymour, Clark N and Scheines, Richard and Heckerman, David and Meek, Christopher and Cooper, Gregory and Richardson, Thomas</td>
+    <td>MIT press 2000</td>
+  </tr>
+</table>
+
 |Title|Authors|Venue|
 |---|---|---|
 |(**FCI**) [*Causation, prediction, and search*](https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition)|Spirtes, Peter and Glymour, Clark N and Scheines, Richard and Heckerman, David and Meek, Christopher and Cooper, Gregory and Richardson, Thomas.|MIT press 2000|
