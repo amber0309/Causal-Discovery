@@ -37,9 +37,9 @@
 
 |paper|confounder|continuous|discrete|
 |---|---|---|---|
-|(**PairwiseLiNGAM**) [Pairwise likelihood ratios for estimation of non-Gaussian structural equation models](http://www.jmlr.org/papers/volume14/hyvarinen13a/hyvarinen13a.pdf)<br>*Journal of machine learning research* (**JMLR**) 2011||:heavy_check_mark:||
-|(**DirectLiNGAM**) [DirectLiNGAM: A direct method for learning a linear non-Gaussian structural equation model](http://www.jmlr.org/papers/volume12/shimizu11a/shimizu11a.pdf) <br> *Journal of machine learning research* (**JMLR**) 2011||:heavy_check_mark:||
-|(**LiNGAM**) [A linear non-Gaussian acyclic model for causal discovery](http://www.jmlr.org/papers/volume7/shimizu06a/shimizu06a.pdf) <br> *Journal of machine learning research* (**JMLR**) 2006||:heavy_check_mark:||
+|(**PairwiseLiNGAM**) [Pairwise likelihood ratios for estimation of non-Gaussian structural equation models](http://www.jmlr.org/papers/volume14/hyvarinen13a/hyvarinen13a.pdf)<br>*Journal of machine learning research* (**JMLR**) 2011 [[code]](https://www.cs.helsinki.fi/u/ahyvarin/code/pwcausal/pwling.zip)||:heavy_check_mark:||
+|(**DirectLiNGAM**) [DirectLiNGAM: A direct method for learning a linear non-Gaussian structural equation model](http://www.jmlr.org/papers/volume12/shimizu11a/shimizu11a.pdf) <br> *Journal of machine learning research* (**JMLR**) 2011 [[code]](https://sites.google.com/site/sshimizu06/Dlingamcode)||:heavy_check_mark:||
+|(**LiNGAM**) [A linear non-Gaussian acyclic model for causal discovery](http://www.jmlr.org/papers/volume7/shimizu06a/shimizu06a.pdf) <br> *Journal of machine learning research* (**JMLR**) 2006 [[code]](http://www.cs.helsinki.fi/group/neuroinf/lingam/lingam.tar.gz)||:heavy_check_mark:||
 
 #### Score-based methods
 
@@ -60,16 +60,16 @@
 
 |paper|confounder|continuous|discrete|
 |---|---|---|---|
-|(**IGCI**) [Inferring deterministic causal relations](https://arxiv.org/abs/1203.3475)<br>*Conference on uncertainty in artificial intelligence* (**UAI**) 2010||:heavy_check_mark:||
-|(**PNL**) [On the identifiability of the post-nonlinear causal model](https://dl.acm.org/citation.cfm?id=1795190) <br> *Conference on uncertainty in artificial intelligence* (**UAI**) 2009||:heavy_check_mark:||
-|(**ANM**) [Nonlinear causal discovery with additive noise models](http://papers.nips.cc/paper/3548-nonlinear-causal-discovery-with-additive-noise-models.pdf) <br> *Advances in neural information processing systems* (**NIPS**) 2008||:heavy_check_mark:|:heavy_check_mark:|
+|(**IGCI**) [Inferring deterministic causal relations](https://arxiv.org/abs/1203.3475)<br>*Conference on uncertainty in artificial intelligence* (**UAI**) 2010 [[code]](http://webdav.tuebingen.mpg.de/causality/igci.tar.gz)||:heavy_check_mark:||
+|(**PNL**) [On the identifiability of the post-nonlinear causal model](https://dl.acm.org/citation.cfm?id=1795190) <br> *Conference on uncertainty in artificial intelligence* (**UAI**) 2009 [[code]](http://webdav.tuebingen.mpg.de/causality/CauseOrEffect_NICA.rar)||:heavy_check_mark:||
+|(**ANM**) [Nonlinear causal discovery with additive noise models](http://papers.nips.cc/paper/3548-nonlinear-causal-discovery-with-additive-noise-models.pdf) <br> *Advances in neural information processing systems* (**NIPS**) 2008 [[code]](http://webdav.tuebingen.mpg.de/causality/additive-noise.tar.gz)||:heavy_check_mark:|:heavy_check_mark:|
 
 #### Methods based on complexity measure
 
 |paper|confounder|continuous|discrete|
 |---|---|---|---|
 |(**CURE**) [Inference of cause and effect with unsupervised inverse regression](http://proceedings.mlr.press/v38/sgouritsa15.pdf)<br>*Artificial intelligence and statistics* (**AISTATS**) 2015||:heavy_check_mark:||
-|(**GPI**) [Probabilistic latent variable models for distinguishing between cause and effect](http://papers.nips.cc/paper/4173-probabilistic-latent-variable-models-for-distinguishing-between-cause-and-effect) <br> *Advances in neural information processing systems* (**NIPS**) 2010||:heavy_check_mark:||
+|(**GPI**) [Probabilistic latent variable models for distinguishing between cause and effect](http://papers.nips.cc/paper/4173-probabilistic-latent-variable-models-for-distinguishing-between-cause-and-effect) <br> *Advances in neural information processing systems* (**NIPS**) 2010 [[code]](http://webdav.tuebingen.mpg.de/causality/nips2010-gpi-code.tar.gz)||:heavy_check_mark:||
 
 ### arXiv
 
