@@ -29,7 +29,7 @@
 
 |paper|confounder|continuous|discrete|
 |---|---|---|---|
-|(**FCI**) [*Causation, prediction, and search*](https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition)<br> Spirtes, Peter and Glymour, Clark N and Scheines, Richard and Heckerman, David and Meek, Christopher and Cooper, Gregory and Richardson, Thomas<br>MIT press 2000|&#10004|<p>&#10004<p>|<p>&#10004<p>|
+|(**FCI**) [*Causation, prediction, and search*](https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition)<br> Spirtes, Peter and Glymour, Clark N and Scheines, Richard and Heckerman, David and Meek, Christopher and Cooper, Gregory and Richardson, Thomas<br>MIT press 2000|- [X]|<p>&#10004<p>|<p>&#10004<p>|
 |||||
 
 <table>
