@@ -29,7 +29,7 @@
 
 <table>
   <tr>
-    <td colspan="3"><b>With confounders</b></td>
+    <td colspan="3" align="center"><b>With confounders</b></td>
   </tr>
   <tr>
     <td>(<b>FCI</b>)<a href="https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition"> <i>Causation, prediction, and search</i></a></td>
@@ -40,7 +40,7 @@
 
 <table>
   <tr>
-    <td colspan="3"><b>Without confounder</b></td>
+    <td colspan="3" align="center"><b>Without confounder</b></td>
   </tr>
   <tr>
     <td>(<b>PC</b>)<a href="https://pdfs.semanticscholar.org/30d4/d4c7505008ea7362ec369311445f4bc8d27a.pdf"> An algorithm for fast recovery of sparse causal graphs</a></td>
@@ -56,51 +56,105 @@
 
 #### Methods based on functional causal model
 
-**Without confouder**
-
-|Title|Authors|Venue|
-|---|---|---|
-|(**PairwiseLiNGAM**) [Pairwise likelihood ratios for estimation of non-Gaussian structural equation models](http://www.jmlr.org/papers/volume14/hyvarinen13a/hyvarinen13a.pdf)|Hyvärinen, Aapo, and Stephen M. Smith|*Journal of machine learning research* (**JMLR**) 2011|
-|(**DirectLiNGAM**) [DirectLiNGAM: A direct method for learning a linear non-Gaussian structural equation model](http://www.jmlr.org/papers/volume12/shimizu11a/shimizu11a.pdf)|Shimizu, Shohei, Takanori Inazumi, Yasuhiro Sogawa, Aapo Hyvärinen, Yoshinobu Kawahara, Takashi Washio, Patrik O. Hoyer, and Kenneth Bollen|*Journal of machine learning research* (**JMLR**) 2011|
-|(**LiNGAM**) [A linear non-Gaussian acyclic model for causal discovery](http://www.jmlr.org/papers/volume7/shimizu06a/shimizu06a.pdf)|Shimizu, Shohei, Patrik O. Hoyer, Aapo Hyvärinen, and Antti Kerminen|*Journal of machine learning research* (**JMLR**) 2006|
+<table>
+  <tr>
+    <td colspan="3" align="center"><b>Without confounder</b></td>
+  </tr>
+  <tr>
+    <td>(<b>PairwiseLiNGAM</b>)<a href="http://www.jmlr.org/papers/volume14/hyvarinen13a/hyvarinen13a.pdf"> Pairwise likelihood ratios for estimation of non-Gaussian structural equation models</a></td>
+    <td>Hyvärinen, Aapo, and Stephen M. Smith</td>
+    <td><i>Journal of machine learning research</i> <b>JMLR</b> 2011</td>
+  </tr>
+  <tr>
+    <td>(<b>DirectLiNGAM</b>)<a href="http://www.jmlr.org/papers/volume12/shimizu11a/shimizu11a.pdf"> DirectLiNGAM: A direct method for learning a linear non-Gaussian structural equation model</a></td>
+    <td>Shimizu, Shohei, Takanori Inazumi, Yasuhiro Sogawa, Aapo Hyvärinen, Yoshinobu Kawahara, Takashi Washio, Patrik O. Hoyer, and Kenneth Bollen</td>
+    <td><i>Journal of machine learning research</i> <b>JMLR</b> 2011</td>
+  </tr>
+  <tr>
+    <td>(<b>LiNGAM</b>)<a href="http://www.jmlr.org/papers/volume7/shimizu06a/shimizu06a.pdf"> A linear non-Gaussian acyclic model for causal discovery</a></td>
+    <td>Shimizu, Shohei, Patrik O. Hoyer, Aapo Hyvärinen, and Antti Kerminen</td>
+    <td><i>Journal of machine learning research</i> <b>JMLR</b> 2006</td>
+  </tr>
+</table>
 
 #### Score-based methods
 
-|Title|Authors|Venue|
-|---|---|---|
-|(**fGES**) [A million variables and more: the Fast Greedy Equivalence Search algorithm for learning high-dimensional graphical causal models, with an application to functional magnetic resonance images](https://link.springer.com/article/10.1007/s41060-016-0032-z)|Ramsey, Joseph, Madelyn Glymour, Ruben Sanchez-Romero, and Clark Glymour|*International journal of data science and analytics* 2017|
-|(**GES**) [Optimal Structure Identification With Greedy Search](http://www.jmlr.org/papers/v3/chickering02b.html)|Chickering, David Maxwell|*Journal of machine learning research* (**JMLR**) 2002|
+<table>
+  <tr>
+    <td colspan="3" align="center"><b>Without confounder</b></td>
+  </tr>
+  <tr>
+    <td>(<b>fGES</b>)<a href="https://link.springer.com/article/10.1007/s41060-016-0032-z"> A million variables and more: the Fast Greedy Equivalence Search algorithm for learning high-dimensional graphical causal models, with an application to functional magnetic resonance images</a></td>
+    <td>Ramsey, Joseph, Madelyn Glymour, Ruben Sanchez-Romero, and Clark Glymour</td>
+    <td><i>International journal of data science and analytics</i> 2017</td>
+  </tr>
+  <tr>
+    <td>(<b>GES</b>)<a href="http://www.jmlr.org/papers/v3/chickering02b.html"> Optimal Structure Identification With Greedy Search</a></td>
+    <td>Chickering, David Maxwell</td>
+    <td><i>Journal of machine learning research</i> <b>JMLR</b> 2002</td>
+  </tr>
+</table>
 
 #### Hybrid methods
 
-|Title|Authors|Venue|
-|---|---|---|
-|(**GFCI**) [A hybrid causal search algorithm for latent variable models](http://proceedings.mlr.press/v52/ogarrio16.pdf)|Ogarrio, Juan Miguel, Peter Spirtes, and Joe Ramsey|*Conference on Probabilistic Graphical Models* (**PGM**) 2016|
+<table>
+  <tr>
+    <td colspan="3" align="center"><b>With confounders</b></td>
+  </tr>
+  <tr>
+    <td>(<b>GFCI</b>)<a href="http://proceedings.mlr.press/v52/ogarrio16.pdf"> A hybrid causal search algorithm for latent variable models</a></td>
+    <td>Ogarrio, Juan Miguel, Peter Spirtes, and Joe Ramsey</td>
+    <td><i>Conference on Probabilistic Graphical Models</i> <b>PGM</b> 2016</td>
+  </tr>
+</table>
 
 ### Cause-effect pairs
 
 #### Methods based on functional causal model
 
-|Title|Authors|Venue|
-|---|---|---|
-|(**IGCI**) [Inferring deterministic causal relations](https://arxiv.org/abs/1203.3475)|Daniusis, Povilas, Dominik Janzing, Joris Mooij, Jakob Zscheischler, Bastian Steudel, Kun Zhang, and Bernhard Schölkopf|*conference on uncertainty in artificial intelligence* (**UAI**) 2010|
-|(**PNL**) [On the identifiability of the post-nonlinear causal model](https://dl.acm.org/citation.cfm?id=1795190)|Zhang, Kun, and Aapo Hyvärinen|*conference on uncertainty in artificial intelligence* (**UAI**) 2009|
-|(**ANM**) [Nonlinear causal discovery with additive noise models](http://papers.nips.cc/paper/3548-nonlinear-causal-discovery-with-additive-noise-models.pdf)|Hoyer, Patrik O., Dominik Janzing, Joris M. Mooij, Jonas Peters, and Bernhard Schölkopf|*Advances in neural information processing systems* (**NIPS**) 2009|
+<table>
+  <tr>
+    <td colspan="3" align="center"><b>Without confounder</b></td>
+  </tr>
+  <tr>
+    <td>(<b>IGCI</b>)<a href="https://arxiv.org/abs/1203.3475"> Inferring deterministic causal relations</a></td>
+    <td>Daniusis, Povilas, Dominik Janzing, Joris Mooij, Jakob Zscheischler, Bastian Steudel, Kun Zhang, and Bernhard Schölkopf</td>
+    <td><i>Conference on uncertainty in artificial intelligence</i> <b>UAI</b> 2010</td>
+  </tr>
+  <tr>
+    <td>(<b>PNL</b>)<a href="https://dl.acm.org/citation.cfm?id=1795190"> On the identifiability of the post-nonlinear causal model</a></td>
+    <td>Zhang, Kun, and Aapo Hyvärinen</td>
+    <td><i>Conference on uncertainty in artificial intelligence</i> <b>UAI</b> 2009</td>
+  </tr>
+  <tr>
+    <td>(<b>ANM</b>)<a href="http://papers.nips.cc/paper/3548-nonlinear-causal-discovery-with-additive-noise-models.pdf"> Nonlinear causal discovery with additive noise models</a></td>
+    <td>Hoyer, Patrik O., Dominik Janzing, Joris M. Mooij, Jonas Peters, and Bernhard Schölkopf</td>
+    <td><i>Advances in neural information processing systems</i> <b>NIPS</b> 2009</td>
+  </tr>
+</table>
 
 #### Methods based on complexity measure
 
-* [A Generalization Error Bound for Multi-class Domain Generalization](https://arxiv.org/abs/1905.10392)  
-Deshmukh, Aniket Anand, Yunwen Lei, Srinagesh Sharma, Urun Dogan, James W. Cutler, and Clayton Scott.  
-*arXiv preprint arXiv:1905.10392* (2019).  
-[[code]](https://www.dropbox.com/sh/bls758ro5762mtf/AACbn3UXJItY9uwtmCAdi7E3a?dl=0)
+<table>
+  <tr>
+    <td colspan="3" align="center"><b>Without confounder</b></td>
+  </tr>
+  <tr>
+    <td>(<b>CURE</b>)<a href="http://proceedings.mlr.press/v38/sgouritsa15.pdf"> Inference of cause and effect with unsupervised inverse regression</a></td>
+    <td>Sgouritsa, Eleni, Dominik Janzing, Philipp Hennig, and Bernhard Schölkopf</td>
+    <td><i>Artificial intelligence and statistics</i> <b>AISTATS</b> 2015</td>
+  </tr>
+  <tr>
+    <td>(<b>GPI</b>)<a href="http://www.jmlr.org/papers/v3/chickering02b.html"> Probabilistic latent variable models for distinguishing between cause and effect</a></td>
+    <td>Stegle, Oliver, Dominik Janzing, Kun Zhang, Joris M. Mooij, and Bernhard Schölkopf</td>
+    <td><i>Advances in neural information processing systems</i> <b>NIPS</b> 2010</td>
+  </tr>
+</table>
 
 
 ### arXiv
 
-* [Domain generalization by marginal transfer learning](https://arxiv.org/abs/1711.07910)  
-Blanchard, Gilles, Aniket Anand Deshmukh, Urun Dogan, Gyemin Lee, and Clayton Scott.  
-*arXiv preprint arXiv:1711.07910* (2017).  
-[[code]](https://github.com/aniketde/DomainGeneralizationMarginal)
+TBD
 
 -----
 
@@ -142,15 +196,8 @@ Download the VLCS DeCAF dataset [[Google Drive](https://drive.google.com/drive/f
 -----
 
 ## References
-1. <a name="1"></a> Gong, Boqing, Yuan Shi, Fei Sha, and Kristen Grauman. "Geodesic flow kernel for unsupervised domain adaptation." In Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on, pp. 2066-2073. IEEE, 2012.
 
-2. <a name="2"></a> Everingham, Mark, Luc Van Gool, Christopher KI Williams, John Winn, and Andrew Zisserman. "The pascal visual object classes (voc) challenge." International journal of computer vision 88, no. 2 (2010): 303-338.
-
-3. <a name="3"></a> Russell, Bryan C., Antonio Torralba, Kevin P. Murphy, and William T. Freeman. "LabelMe: a database and web-based tool for image annotation." International journal of computer vision 77, no. 1-3 (2008): 157-173.
-
-4. <a name="4"></a> Griffin, Gregory, Alex Holub, and Pietro Perona. "Caltech-256 object category dataset." (2007).
-
-5. <a name="5"></a> Choi, Myung Jin, Joseph J. Lim, Antonio Torralba, and Alan S. Willsky. "Exploiting hierarchical context on a large database of object categories." (2010).
+TBD
 
 -----
 
