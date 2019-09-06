@@ -30,57 +30,16 @@
 |paper|confounder|continuous|discrete|
 |---|---|---|---|
 |(**FCI**) [*Causation, prediction, and search*](https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition)<br> Spirtes, Peter and Glymour, Clark N and Scheines, Richard and Heckerman, David and Meek, Christopher and Cooper, Gregory and Richardson, Thomas<br>MIT press 2000|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|||||
-
-<table>
-  <tr>
-    <td colspan="3" align="center"><b>With confounders</b></td>
-  </tr>
-  <tr>
-    <td>(<b>FCI</b>)<a href="https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition"> <i>Causation, prediction, and search</i></a> <br> Spirtes, Peter and Glymour, Clark N and Scheines, Richard and Heckerman, David and Meek, Christopher and Cooper, Gregory and Richardson, Thomas <br> MIT press 2000 </td>
-    <td>Spirtes, Peter and Glymour, Clark N and Scheines, Richard and Heckerman, David and Meek, Christopher and Cooper, Gregory and Richardson, Thomas</td>
-    <td>MIT press 2000</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td colspan="3" align="center"><b>Without confounder</b></td>
-  </tr>
-  <tr>
-    <td>(<b>PC</b>)<a href="https://pdfs.semanticscholar.org/30d4/d4c7505008ea7362ec369311445f4bc8d27a.pdf"> An algorithm for fast recovery of sparse causal graphs</a></td>
-    <td>Spirtes, Peter, and Clark Glymour</td>
-    <td><i>Social science computer review</i> 2000</td>
-  </tr>
-  <tr>
-    <td>(<b>SGS</b>)<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.9968&rep=rep1&type=pdf"> Causality from probability</a></td>
-    <td>Spirtes, Peter, Clark N. Glymour, and Richard Scheines</td>
-    <td><i>Conference Proceedings: Advanced Computing for the Social Sciences</i> 1990</td>
-  </tr>
-</table>
+|(**PC**) [An algorithm for fast recovery of sparse causal graphs](https://pdfs.semanticscholar.org/30d4/d4c7505008ea7362ec369311445f4bc8d27a.pdf) <br> Spirtes, Peter, and Clark Glymour <br> *Social science computer review* 2000||:heavy_check_mark:|:heavy_check_mark:|
+|(**SGS**) [Causality from probability](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.9968&rep=rep1&type=pdf) <br> Spirtes, Peter, Clark N. Glymour, and Richard Scheines <br> *Conference Proceedings: Advanced Computing for the Social Sciences* 1990||:heavy_check_mark:|:heavy_check_mark:|
 
 #### Methods based on functional causal model
 
-<table>
-  <tr>
-    <td colspan="3" align="center"><b>Without confounder</b></td>
-  </tr>
-  <tr>
-    <td>(<b>PairwiseLiNGAM</b>)<a href="http://www.jmlr.org/papers/volume14/hyvarinen13a/hyvarinen13a.pdf"> Pairwise likelihood ratios for estimation of non-Gaussian structural equation models</a></td>
-    <td>Hyvärinen, Aapo, and Stephen M. Smith</td>
-    <td><i>Journal of machine learning research</i> (<b>JMLR</b>) 2011</td>
-  </tr>
-  <tr>
-    <td>(<b>DirectLiNGAM</b>)<a href="http://www.jmlr.org/papers/volume12/shimizu11a/shimizu11a.pdf"> DirectLiNGAM: A direct method for learning a linear non-Gaussian structural equation model</a></td>
-    <td>Shimizu, Shohei, Takanori Inazumi, Yasuhiro Sogawa, Aapo Hyvärinen, Yoshinobu Kawahara, Takashi Washio, Patrik O. Hoyer, and Kenneth Bollen</td>
-    <td><i>Journal of machine learning research</i> (<b>JMLR</b>) 2011</td>
-  </tr>
-  <tr>
-    <td>(<b>LiNGAM</b>)<a href="http://www.jmlr.org/papers/volume7/shimizu06a/shimizu06a.pdf"> A linear non-Gaussian acyclic model for causal discovery</a></td>
-    <td>Shimizu, Shohei, Patrik O. Hoyer, Aapo Hyvärinen, and Antti Kerminen</td>
-    <td><i>Journal of machine learning research</i> (<b>JMLR</b>) 2006</td>
-  </tr>
-</table>
+|paper|confounder|continuous|discrete|
+|---|---|---|---|
+|(**PairwiseLiNGAM**) [Pairwise likelihood ratios for estimation of non-Gaussian structural equation models](http://www.jmlr.org/papers/volume14/hyvarinen13a/hyvarinen13a.pdf)<br> Hyvärinen, Aapo, and Stephen M. Smith<br>*Journal of machine learning research* **JMLR** 2011||:heavy_check_mark:||
+|(**DirectLiNGAM**) [DirectLiNGAM: A direct method for learning a linear non-Gaussian structural equation model](http://www.jmlr.org/papers/volume12/shimizu11a/shimizu11a.pdf) <br> Shimizu, Shohei, Takanori Inazumi, Yasuhiro Sogawa, Aapo Hyvärinen, Yoshinobu Kawahara, Takashi Washio, Patrik O. Hoyer, and Kenneth Bollen <br> *Journal of machine learning research* **JMLR** 2011||:heavy_check_mark:||
+|(**LiNGAM**) [A linear non-Gaussian acyclic model for causal discovery](http://www.jmlr.org/papers/volume7/shimizu06a/shimizu06a.pdf) <br> Shimizu, Shohei, Patrik O. Hoyer, Aapo Hyvärinen, and Antti Kerminen <br> *Journal of machine learning research* **JMLR** 2006||:heavy_check_mark:|:check_mark:|
 
 #### Score-based methods
 
