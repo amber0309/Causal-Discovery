@@ -27,12 +27,17 @@
 
 #### Constraint-based methods
 
+|paper|confounder|continuous|discrete|
+|---|---|---|---|
+|(**FCI**) [*Causation, prediction, and search*](https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition)<br> Spirtes, Peter and Glymour, Clark N and Scheines, Richard and Heckerman, David and Meek, Christopher and Cooper, Gregory and Richardson, Thomas<br>MIT press 2000|&#10004|<p>&#10004<p>|<p>&#10004<p>|
+|||||
+
 <table>
   <tr>
     <td colspan="3" align="center"><b>With confounders</b></td>
   </tr>
   <tr>
-    <td>(<b>FCI</b>)<a href="https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition"> <i>Causation, prediction, and search</i></a></td>
+    <td>(<b>FCI</b>)<a href="https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition"> <i>Causation, prediction, and search</i></a> <br> Spirtes, Peter and Glymour, Clark N and Scheines, Richard and Heckerman, David and Meek, Christopher and Cooper, Gregory and Richardson, Thomas <br> MIT press 2000 </td>
     <td>Spirtes, Peter and Glymour, Clark N and Scheines, Richard and Heckerman, David and Meek, Christopher and Cooper, Gregory and Richardson, Thomas</td>
     <td>MIT press 2000</td>
   </tr>
