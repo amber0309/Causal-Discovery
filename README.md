@@ -63,17 +63,17 @@
   <tr>
     <td>(<b>PairwiseLiNGAM</b>)<a href="http://www.jmlr.org/papers/volume14/hyvarinen13a/hyvarinen13a.pdf"> Pairwise likelihood ratios for estimation of non-Gaussian structural equation models</a></td>
     <td>Hyvärinen, Aapo, and Stephen M. Smith</td>
-    <td><i>Journal of machine learning research</i> <b>JMLR</b> 2011</td>
+    <td><i>Journal of machine learning research</i> (<b>JMLR</b>) 2011</td>
   </tr>
   <tr>
     <td>(<b>DirectLiNGAM</b>)<a href="http://www.jmlr.org/papers/volume12/shimizu11a/shimizu11a.pdf"> DirectLiNGAM: A direct method for learning a linear non-Gaussian structural equation model</a></td>
     <td>Shimizu, Shohei, Takanori Inazumi, Yasuhiro Sogawa, Aapo Hyvärinen, Yoshinobu Kawahara, Takashi Washio, Patrik O. Hoyer, and Kenneth Bollen</td>
-    <td><i>Journal of machine learning research</i> <b>JMLR</b> 2011</td>
+    <td><i>Journal of machine learning research</i> (<b>JMLR</b>) 2011</td>
   </tr>
   <tr>
     <td>(<b>LiNGAM</b>)<a href="http://www.jmlr.org/papers/volume7/shimizu06a/shimizu06a.pdf"> A linear non-Gaussian acyclic model for causal discovery</a></td>
     <td>Shimizu, Shohei, Patrik O. Hoyer, Aapo Hyvärinen, and Antti Kerminen</td>
-    <td><i>Journal of machine learning research</i> <b>JMLR</b> 2006</td>
+    <td><i>Journal of machine learning research</i> (<b>JMLR</b>) 2006</td>
   </tr>
 </table>
 
@@ -91,7 +91,7 @@
   <tr>
     <td>(<b>GES</b>)<a href="http://www.jmlr.org/papers/v3/chickering02b.html"> Optimal Structure Identification With Greedy Search</a></td>
     <td>Chickering, David Maxwell</td>
-    <td><i>Journal of machine learning research</i> <b>JMLR</b> 2002</td>
+    <td><i>Journal of machine learning research</i> (<b>JMLR</b>) 2002</td>
   </tr>
 </table>
 
@@ -104,7 +104,7 @@
   <tr>
     <td>(<b>GFCI</b>)<a href="http://proceedings.mlr.press/v52/ogarrio16.pdf"> A hybrid causal search algorithm for latent variable models</a></td>
     <td>Ogarrio, Juan Miguel, Peter Spirtes, and Joe Ramsey</td>
-    <td><i>Conference on Probabilistic Graphical Models</i> <b>PGM</b> 2016</td>
+    <td><i>Conference on Probabilistic Graphical Models</i> (<b>PGM</b>) 2016</td>
   </tr>
 </table>
 
@@ -119,17 +119,17 @@
   <tr>
     <td>(<b>IGCI</b>)<a href="https://arxiv.org/abs/1203.3475"> Inferring deterministic causal relations</a></td>
     <td>Daniusis, Povilas, Dominik Janzing, Joris Mooij, Jakob Zscheischler, Bastian Steudel, Kun Zhang, and Bernhard Schölkopf</td>
-    <td><i>Conference on uncertainty in artificial intelligence</i> <b>UAI</b> 2010</td>
+    <td><i>Conference on uncertainty in artificial intelligence</i> (<b>UAI</b>) 2010</td>
   </tr>
   <tr>
     <td>(<b>PNL</b>)<a href="https://dl.acm.org/citation.cfm?id=1795190"> On the identifiability of the post-nonlinear causal model</a></td>
     <td>Zhang, Kun, and Aapo Hyvärinen</td>
-    <td><i>Conference on uncertainty in artificial intelligence</i> <b>UAI</b> 2009</td>
+    <td><i>Conference on uncertainty in artificial intelligence</i> (<b>UAI</b>) 2009</td>
   </tr>
   <tr>
     <td>(<b>ANM</b>)<a href="http://papers.nips.cc/paper/3548-nonlinear-causal-discovery-with-additive-noise-models.pdf"> Nonlinear causal discovery with additive noise models</a></td>
     <td>Hoyer, Patrik O., Dominik Janzing, Joris M. Mooij, Jonas Peters, and Bernhard Schölkopf</td>
-    <td><i>Advances in neural information processing systems</i> <b>NIPS</b> 2009</td>
+    <td><i>Advances in neural information processing systems</i> (<b>NIPS</b>) 2009</td>
   </tr>
 </table>
 
@@ -142,15 +142,14 @@
   <tr>
     <td>(<b>CURE</b>)<a href="http://proceedings.mlr.press/v38/sgouritsa15.pdf"> Inference of cause and effect with unsupervised inverse regression</a></td>
     <td>Sgouritsa, Eleni, Dominik Janzing, Philipp Hennig, and Bernhard Schölkopf</td>
-    <td><i>Artificial intelligence and statistics</i> <b>AISTATS</b> 2015</td>
+    <td><i>Artificial intelligence and statistics</i> (<b>AISTATS</b>) 2015</td>
   </tr>
   <tr>
     <td>(<b>GPI</b>)<a href="http://www.jmlr.org/papers/v3/chickering02b.html"> Probabilistic latent variable models for distinguishing between cause and effect</a></td>
     <td>Stegle, Oliver, Dominik Janzing, Kun Zhang, Joris M. Mooij, and Bernhard Schölkopf</td>
-    <td><i>Advances in neural information processing systems</i> <b>NIPS</b> 2010</td>
+    <td><i>Advances in neural information processing systems</i> (<b>NIPS</b>) 2010</td>
   </tr>
 </table>
-
 
 ### arXiv
 
