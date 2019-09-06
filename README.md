@@ -53,7 +53,6 @@
 |paper|confounder|continuous|discrete|
 |---|---|---|---|
 |(**GFCI**) [A hybrid causal search algorithm for latent variable models](http://proceedings.mlr.press/v52/ogarrio16.pdf)<br>*Conference on Probabilistic Graphical Models* (**PGM**) 2016||:heavy_check_mark:||
-|(**GES**) [Optimal Structure Identification With Greedy Search](http://www.jmlr.org/papers/v3/chickering02b.html) <br> *Journal of machine learning research* (**JMLR**) 2002||:heavy_check_mark:||
 
 ### Cause-effect pairs
 
@@ -63,7 +62,7 @@
 |---|---|---|---|
 |(**IGCI**) [Inferring deterministic causal relations](https://arxiv.org/abs/1203.3475)<br>*Conference on uncertainty in artificial intelligence* (**UAI**) 2010||:heavy_check_mark:||
 |(**PNL**) [On the identifiability of the post-nonlinear causal model](https://dl.acm.org/citation.cfm?id=1795190) <br> *Conference on uncertainty in artificial intelligence* (**UAI**) 2009||:heavy_check_mark:||
-|(**ANM**) [Nonlinear causal discovery with additive noise models](http://papers.nips.cc/paper/3548-nonlinear-causal-discovery-with-additive-noise-models.pdf) <br> *Advances in neural information processing systems* (**NIPS**) 2009||:heavy_check_mark:|:heavy_check_mark:|
+|(**ANM**) [Nonlinear causal discovery with additive noise models](http://papers.nips.cc/paper/3548-nonlinear-causal-discovery-with-additive-noise-models.pdf) <br> *Advances in neural information processing systems* (**NIPS**) 2008||:heavy_check_mark:|:heavy_check_mark:|
 
 #### Methods based on complexity measure
 
