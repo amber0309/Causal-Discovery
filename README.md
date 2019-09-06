@@ -79,44 +79,21 @@ TBD
 
 ## Datasets
 
-|     Dataset    |        #Sample |       #Feature      | #Class |   Subdomain  | Reference |
-|:--------------:|:-------:|:-------------------:|:------:|:------------:|:--------:|
-| [Office+Caltech](#Office+Caltech) |    2533  | SURF: 800, DeCAF: 4096 |   10   |  A, W, D, C  |   [[1]](#1)       |
-|     [VOC2007](#vlcs)    |          3376  |      DeCAF: 4096     |    5   |       V      |    [[2]](#2)      |
-|     [LabelMe](#vlcs)    |          2656  |      DeCAF: 4096     |    5   |       L      |    [[3]](#3)      |
-|   [Caltech101](#vlcs)   |          1415  |      DeCAF: 4096     |    5   |       C      |    [[4]](#4)      |
-|      [SUN09](#vlcs)     |          3282  |      DeCAF: 4096     |    5   |       S      |    [[5]](#5)      |
+|     Dataset    |        Causal graph |      Cause-effect pairs      | Ground truth | Reference |
+|:--------------:|:-------:|:-------------------:|:------:|:--------:|
+| [Database with cause-effect pairs](#Database-with-cause-effect-pairs) |   | :heavy_check_mark: |   :heavy_check_mark:   |   [[1]](#1)       |
 
-### Office+Caltech
+### Database with cause-effect pairs
 
-#### Introduction
+> This is a growing database with different data for testing causal detection algorithms. The goal here is to distinguish between cause and effect. We searched for data sets with known ground truth. However, we do not guarantee that all provided ground truths are correct. The datafiles are .txt-files and contain two variables, one is the cause and the other the effect. For every example there exists a description file where you can find the ground truth and how the data was derived.
 
-This dataset is constructed by collecting common classes in two datasets: Office-31 (which contains A, W and D) and Caltech-256 (which is C).  
-Four domains: A(Amazon, 958 instances), W(Webcam, 295 instances), D(DSLR, 157 instances), and C(Caltech, 1123 instances).  
-Ten common classes: back pack, bike, calculator, headphones, keyboard, laptop_computer, monitor, mouse, mug, and projector.
-
-#### Download
-
-Download Office+Caltech original images [[Google Drive](https://drive.google.com/file/d/14OIlzWFmi5455AjeBZLak2Ku-cFUrfEo/view?usp=sharing)]  
-Download Office+Caltech SURF dataset [[Google Drive](https://drive.google.com/file/d/1TKot-lmTy5h797YaAeydkOD6kWqii5fa/view?usp=sharing)]  
-Download Office+Caltech DeCAF dataset [[Google Drive](https://drive.google.com/file/d/1mgEyml0ZoZjUlUQfWNfr-Srxmlot3yq6/view?usp=sharing)]
-
-### VLCS
-
-#### Introduction
-
-Four domains: V(VOC2007), L(LabelMe), C(Caltech), and S(SUN09).  
-Five common classes: bird, car, chair, dog, and person. 
-
-#### Download
-
-Download the VLCS DeCAF dataset [[Google Drive](https://drive.google.com/drive/folders/1yvIpp0kg8e-GHESF6jJjCO4M7mjOJHLS?usp=sharing)]
+[Official page](https://webdav.tuebingen.mpg.de/cause-effect/)
 
 -----
 
 ## References
 
-TBD
+1. <a name="1"></a> Mooij, Joris M., Jonas Peters, Dominik Janzing, Jakob Zscheischler, and Bernhard Schölkopf. "Distinguishing cause from effect using observational data: methods and benchmarks." The Journal of Machine Learning Research 17, no. 1 (2016): 1103-1204.
 
 -----
 
